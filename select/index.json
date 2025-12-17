@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "涙することは疎か、息も出来ない。",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-17T11:02:06.165440Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙することは疎か、息も出来ない。",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_涙することは疎か、息も出来ない。_HACHI.txt"
+    }
+  ]
+}
